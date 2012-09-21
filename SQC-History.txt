@@ -1,0 +1,2 @@
+     204    1194    7643 README.md
+DOC: wc into file
