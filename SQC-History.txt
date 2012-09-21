@@ -1,2 +1,4 @@
      204    1194    7643 README.md
 DOC: wc into file
+     204    1194    7643 README.md
+DOC: wc into file
