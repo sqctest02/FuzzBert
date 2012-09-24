@@ -10,3 +10,5 @@ DOC: wc into file
 DOC: wc into file
       21      47     382 Rakefile
 DOC: wc into file
+      21      47     382 Rakefile
+DOC: wc into file
